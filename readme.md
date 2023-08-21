@@ -1,8 +1,12 @@
 # Langchain Ask PDF (Tutorial)
 
->You may find the step-by-step video tutorial to build this application [on Youtube](https://youtu.be/wUAUdEw5oxM).
+Learn how to harness the power of Langchain, an open-source Python (and Javascript) framework, to create intelligent applications. Discover Langchain's capabilities in training GPT models on your data and generating personalized LLMs. Explore text embeddings and their integration with Langchain using OpenAI's API.
 
-This is a Python application that allows you to load a PDF and ask questions about it using natural language. The application uses a LLM to generate a response about your PDF. The LLM will not answer questions unrelated to the document.
+In this tutorial, we'll guide you through building a fully functional Streamlit application. Train GPT on PDF documents and fine-tune it to your specific use case. Experience the seamless user interface as you upload PDFs, ask questions, and receive prompt answers from the LLM.
+
+Unleash Langchain's versatility in chatbots, document analysis, and more. Automate tasks and improve efficiency using Langchain with Streamlit.
+
+Take your natural language processing skills to the next level. Start building powerful applications with Langchain today!
 
 ## How it works
 
